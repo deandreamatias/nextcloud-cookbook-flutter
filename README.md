@@ -1,3 +1,6 @@
+# This Project is no longer actively maintained!
+
+
 ![GitHub](https://img.shields.io/github/license/Teifun2/nextcloud-cookbook-flutter) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/Teifun2/nextcloud-cookbook-flutter) ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Teifun2/nextcloud-cookbook-flutter/build.yml?branch=master)
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
